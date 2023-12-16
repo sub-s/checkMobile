@@ -2,6 +2,10 @@
 Mobile checked css add
 접속한 디바이스가 모바일인지 피씨 인지를 체크해서 CSS를 동적으로 추가한다.
 
+``
+* 스크립트 에러나면 박살난다.
+``
+
 ```
 // css경로 
 const mobileCSSPath = '../css/mobile.css';
